@@ -1,0 +1,28 @@
+{
+  "name": "urban_test",
+  "version": "1.0.0",
+  "description": "HW",
+  "main": "index.js",
+  "scripts": {
+    "mocha:test:fetchUsers":"mocha fetch.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntoninaSemkina/HW_test.git"
+  },
+  "keywords": [
+    "HW",
+    "test"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntoninaSemkina/HW_test/issues"
+  },
+  "homepage": "https://github.com/AntoninaSemkina/HW_test#readme",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.7.3",
+    "sinon": "^19.0.2"
+  }
+}
